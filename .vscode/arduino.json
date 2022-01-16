@@ -1,0 +1,13 @@
+{
+    "board": "arduino:avr:uno",
+    "arduino.commandPath": "arduino_debug.exe",
+    "arduino.allowPDEFiletype": false,
+    "arduino.enableUSBDetection": true,
+    "arduino.disableTestingOpen": false,
+    "arduino.skipHeaderProvider": false,
+    "arduino.defaultBaudRate": 115200,
+    "port": "COM4",
+    "programmer": "arduino:avrispmkii",
+    "intelliSenseGen": "global",
+    "sketch": "Battery\\Battery_Test\\Battery_Test.ino"
+}
